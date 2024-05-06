@@ -1,7 +1,7 @@
 # app-dev
 My first respiratory
 
-# My Fvorite Movie
+# My Favorite Movies
 1. *Fast & Furious*
 2. *Transformers*
 3. *Home Alone*
